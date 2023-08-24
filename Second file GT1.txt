@@ -1,2 +1,6 @@
 This id from GT2 on 11:56
+<<<<<<< HEAD
 hi from gt3
+=======
+Hi from GT2
+>>>>>>> origin/main
